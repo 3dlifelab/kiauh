@@ -33,12 +33,12 @@ function set_globals() {
   #================== KLIPPER ===================#
   KLIPPY_ENV="${HOME}/klippy-env"
   KLIPPER_DIR="${HOME}/klipper"
-  KLIPPER_REPO="https://github.com/Klipper3d/klipper.git"
+  KLIPPER_REPO="https://github.com/3dlifelab/klipper.git"
 
   #================= MOONRAKER ==================#
   MOONRAKER_ENV="${HOME}/moonraker-env"
   MOONRAKER_DIR="${HOME}/moonraker"
-  MOONRAKER_REPO="https://github.com/Arksine/moonraker.git"
+  MOONRAKER_REPO="https://github.com/3dlifelab/moonraker.git"
 
   #================= MAINSAIL ===================#
   MAINSAIL_DIR="${HOME}/mainsail"
@@ -49,16 +49,16 @@ function set_globals() {
   #=============== KLIPPERSCREEN ================#
   KLIPPERSCREEN_ENV="${HOME}/.KlipperScreen-env"
   KLIPPERSCREEN_DIR="${HOME}/KlipperScreen"
-  KLIPPERSCREEN_REPO="https://github.com/jordanruthe/KlipperScreen.git"
+  KLIPPERSCREEN_REPO="https://github.com/3dlifelab/KlipperScreen.git"
 
   #========== MOONRAKER-TELEGRAM-BOT ============#
   TELEGRAM_BOT_ENV="${HOME}/moonraker-telegram-bot-env"
   TELEGRAM_BOT_DIR="${HOME}/moonraker-telegram-bot"
-  TELEGRAM_BOT_REPO="https://github.com/nlef/moonraker-telegram-bot.git"
+  TELEGRAM_BOT_REPO="https://github.com/3dlifelab/moonraker-telegram-bot.git"
 
   #=============== PRETTY-GCODE =================#
   PGC_DIR="${HOME}/pgcode"
-  PGC_REPO="https://github.com/Kragrathea/pgcode"
+  PGC_REPO="https://github.com/3dlifelab/pgcode"
 
   #================== NGINX =====================#
   NGINX_SA="/etc/nginx/sites-available"
@@ -76,11 +76,11 @@ function set_globals() {
 
   #=============== Crowsnest ================#
   CROWSNEST_DIR="${HOME}/crowsnest"
-  CROWSNEST_REPO="https://github.com/mainsail-crew/crowsnest.git"
+  CROWSNEST_REPO="https://github.com/3dlifelab/crowsnest.git"
 
   #=============== Mobileraker ================#
   MOBILERAKER_ENV="${HOME}/mobileraker-env"
   MOBILERAKER_DIR="${HOME}/mobileraker_companion"
-  MOBILERAKER_REPO="https://github.com/Clon1998/mobileraker_companion.git"
+  MOBILERAKER_REPO="https://github.com/3dlifelab/mobileraker_companion.git"
 
 }
